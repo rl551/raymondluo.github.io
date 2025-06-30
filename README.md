@@ -1,1 +1,3 @@
-# Raymond Luo's Personal Website
+# Personal Website
+
+Will clean up root directory later.
