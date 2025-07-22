@@ -1,3 +1,3 @@
 # rl551.github.io
 
-Will clean up root directory later.
+Personal Website. Build w/ HTML, CSS, and JavaScript. Includes a python script to turn markdown text into HTML files for blog posts.
